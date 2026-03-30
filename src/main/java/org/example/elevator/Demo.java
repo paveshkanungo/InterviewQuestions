@@ -14,7 +14,6 @@ public class Demo {
 
             // 2. Create one internal buttons for each elevator
             InternalButton internalButton_for_elevator1 = new InternalButton(controller1);
-            InternalButton internalButton_for_elevator2 = new InternalButton(controller2);
 
             //3. create Scheduler with Nearest Strategy
             ElevatorScheduler elevatorScheduler = new ElevatorScheduler(
