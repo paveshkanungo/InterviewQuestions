@@ -1,4 +1,4 @@
-package org.example.elevator;
+package org.example.elevator.approach1;
 
 public class InternalDispatcher {
     private static InternalDispatcher INSTANCE = new InternalDispatcher();

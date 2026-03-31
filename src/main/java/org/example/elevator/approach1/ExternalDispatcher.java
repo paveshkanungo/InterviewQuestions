@@ -1,6 +1,6 @@
-package org.example.elevator;
+package org.example.elevator.approach1;
 
-import org.example.elevator.enums.ElevatorDirection;
+import org.example.elevator.approach1.enums.ElevatorDirection;
 
 public class ExternalDispatcher {
     ElevatorScheduler scheduler;

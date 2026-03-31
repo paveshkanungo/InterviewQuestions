@@ -1,4 +1,4 @@
-package org.example.elevator;
+package org.example.elevator.approach1;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.elevator;
+package org.example.elevator.approach1;
 
 public class InternalButton {
     private final ElevatorController controller;

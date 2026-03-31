@@ -1,4 +1,4 @@
-package org.example.elevator.enums;
+package org.example.elevator.approach1.enums;
 
 public enum ElevatorDirection {
     UP,

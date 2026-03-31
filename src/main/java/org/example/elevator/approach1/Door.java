@@ -1,6 +1,6 @@
-package org.example.elevator;
+package org.example.elevator.approach1;
 
-import org.example.elevator.enums.DoorState;
+import org.example.elevator.approach1.enums.DoorState;
 
 public class Door {
     private DoorState doorState;
